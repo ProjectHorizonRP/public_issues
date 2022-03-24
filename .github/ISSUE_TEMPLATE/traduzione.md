@@ -3,7 +3,7 @@ name: Traduzione
 about: Problema di traduzione
 title: ''
 labels: Translation
-assignees: ''
+assignees: mrkiko144, rendy6416
 
 ---
 
