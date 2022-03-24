@@ -1,14 +1,14 @@
 ---
-name: Bug report
-about: Bug report
-title: 'Bug: '
-labels: bug
+name: Traduzione
+about: Problema di traduzione
+title: ''
+labels: Translation
 assignees: ''
 
 ---
 
-**Descrivi il problema**
-Inserisci una descrizione chiara e dettagliata del problema riscontrato.
+**Dove si trova il problema**
+Quale frase non sembra essere tradotta?
 
 **Come riprodurre**
 Passaggi per riprodurre il problema:
@@ -18,8 +18,8 @@ Passaggi per riprodurre il problema:
 4. Hai errori in console? (se si, fai uno screenshot)
 (Ricorda che puoi fare uno screenshot con Win + Shift + S e incollare qui direttamente con Ctlr + V)
 
-**Comportamento desiderato**
-Una descrizione chiara del comportamento che ti saresti aspettato
+**Traduzione possibile**
+Inserisci una proposta di traduzione per la frase in questione.
 
 **Screenshots**
 Se possibile, aggiungi screenshot del problema.

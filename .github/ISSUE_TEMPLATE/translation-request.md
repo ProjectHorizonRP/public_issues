@@ -2,7 +2,7 @@
 name: Translation request
 about: Who needs a translation nowadays?
 title: ''
-labels: translation
+labels: ''
 assignees: ''
 
 ---
