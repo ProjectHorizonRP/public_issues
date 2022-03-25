@@ -1,7 +1,7 @@
 ---
 name: Idea
 about: Idea
-title: 'Idea: '
+title: ''
 labels: enhancement
 assignees: ''
 
