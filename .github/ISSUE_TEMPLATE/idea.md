@@ -1,6 +1,6 @@
 ---
 name: Idea
-about: Idea
+about: Migliorie o suggerimenti
 title: ''
 labels: enhancement
 assignees: ''

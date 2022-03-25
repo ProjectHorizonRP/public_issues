@@ -1,6 +1,6 @@
 ---
 name: Traduzione
-about: Problema di traduzione
+about: Problema di traduzione / linguaggio
 title: ''
 labels: Translation
 assignees: mrkiko144, rendy6416

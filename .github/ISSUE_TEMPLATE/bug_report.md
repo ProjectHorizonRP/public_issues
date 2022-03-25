@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Bug report
+about: Segnala un problema o comportamento indesiderato
 title: ''
 labels: bug
 assignees: ''
