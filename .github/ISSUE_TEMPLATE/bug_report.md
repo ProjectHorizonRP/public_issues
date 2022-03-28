@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Nome su Discord**
+Se il tuo nick su GitHub non è riconducibile a discord, aggiungilo qui pls.
+
 **Descrivi il problema**
 Inserisci una descrizione chiara e dettagliata del problema riscontrato.
 

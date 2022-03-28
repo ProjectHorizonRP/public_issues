@@ -7,6 +7,9 @@ assignees: mrkiko144, rendy6416
 
 ---
 
+**Nome su Discord**
+Se il tuo nick su GitHub non è riconducibile a discord, aggiungilo qui pls.
+
 **Dove si trova il problema**
 Quale frase non sembra essere tradotta?
 
