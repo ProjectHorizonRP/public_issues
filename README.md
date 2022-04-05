@@ -4,11 +4,13 @@ Benvenuto nel repo per le issues pubbliche di Project Horizon.
 Per aprire una issue, seleziona il tab "Issues" in alto a sinistra o visita questo url: https://github.com/ProjectHorizonRP/public_issues/issues
 
 Troverai in alto a destra un tasto verde con su scritto "New Issue"
-![image](https://user-images.githubusercontent.com/14958556/161761167-a8c6ee1a-b4ed-449a-8591-550c122c6077.png)
+![161761167-a8c6ee1a-b4ed-449a-8591-550c122c6077](https://user-images.githubusercontent.com/14958556/161768361-bec5b100-8992-4036-924d-096922e9e61d.png)
+
 
 Una volta cliccato il tasto vedrai diversi tipi di template:
 
-![image](https://user-images.githubusercontent.com/14958556/161761412-c0d83f3a-6f60-424f-9efa-7a917c4bbb16.png)
+![161761412-c0d83f3a-6f60-424f-9efa-7a917c4bbb16](https://user-images.githubusercontent.com/14958556/161768395-30350d71-84fe-467c-ae9d-da233b639e32.png)
+
 
 Segui la descrizione di ogni template per segnalare il tuo problema, o proporre un'idea.
 
