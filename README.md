@@ -12,7 +12,7 @@ Una volta cliccato il tasto vedrai diversi tipi di template:
 ![161761412-c0d83f3a-6f60-424f-9efa-7a917c4bbb16](https://user-images.githubusercontent.com/14958556/161768395-30350d71-84fe-467c-ae9d-da233b639e32.png)
 
 
-Segui la descrizione di ogni template per segnalare il tuo problema, o proporre un'idea.
+Segui la descrizione di ogni template per segnalare il tuo problema o proporre un'idea.
 
 Esempio:
 
