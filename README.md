@@ -35,5 +35,5 @@ Es. Duping sproporzionato di un oggetto/denaro.
 
 \** Se per un qualche motivo la issue che dovete segnalare è molto importante e/o potrebbe generare grossi problemi nel server (per esempio nel caso riusciste a dupare macchine in maniera spropositata) siete pregati di segnalare il problema direttamente ad un membro dello staff su discord, senza dare troppi dettagli in pubblico. Questo perchè porterebbe altri giocatori disonesti ad abusare del problema.
 
-**In qualunque caso, se dovesste incontrare un problema vi incoraggiamo a segnalarlo qui o su discord.
+**In qualunque caso, se doveste incontrare un problema vi incoraggiamo a segnalarlo qui o su discord.
 Se invece doveste decidere di non segnalare il problema ma di abusare di esso, le conseguenze saranno più gravi.**
