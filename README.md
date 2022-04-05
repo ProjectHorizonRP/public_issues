@@ -30,7 +30,8 @@ E' importante ricordare che le issue sono viste di buon occhio dal DEV team, e s
 
 Ricordate comunque che un issue legittima e/o fatta con onestà non porterà mai ad alcun tipo di sanzione, tuttavia l'abuso di questa funzionalità potrebbe avere ripercussioni nel server.
 
-\* Se non risolviamo il vostro problema immediatamente, ricordate che abbiamo delle issues aperte in un repo privato che per ovvi motivi non è visibile al pubblico poichè potrebbe contenere dei problemi che se segnalati qui potrebbero essere fortemente dannosi per il server, es. Duping sproporzionato di un oggetto/denaro.
+\* Se non risolviamo il vostro problema immediatamente, ricordate che abbiamo delle issues aperte in un repo privato che per ovvi motivi non è visibile al pubblico poichè potrebbe contenere dei problemi che se segnalati qui potrebbero essere fortemente dannosi per il server.
+Es. Duping sproporzionato di un oggetto/denaro.
 
 \** Se per un qualche motivo la issue che dovete segnalare è molto importante e/o potrebbe generare grossi problemi nel server (per esempio nel caso riusciste a dupare macchine in maniera spropositata) siete pregati di segnalare il problema direttamente ad un membro dello staff su discord, senza dare troppi dettagli in pubblico. Questo perchè porterebbe altri giocatori disonesti ad abusare del problema.
 
