@@ -20,6 +20,8 @@ Esempio:
 
 Una volta selezionato un template, siete pregati di seguirlo per essere certi di scrivere una buona segnalazione.
 
+*E' utile ricordare che la combinazione Windows + Shift + S permette di fare uno screenshot e di salvarlo nella clipboard di Windows, in questo modo vi basterà usare il semplice Ctrl + V per incollarlo nella descrizione della issue*
+
 --------------
 
 E' importante ricordare che le issue sono viste di buon occhio dal DEV team, e siete quindi incoraggiati a segnalare qualunque tipo di problema, questo perche non solo ci permette di lavorarlo il più velocemente possibile* ma anche di evitare che qualcuno abusi del bug/glitch indesiderato.**
