@@ -9,7 +9,7 @@ Troverai in alto a destra un tasto verde con su scritto "New Issue"
 
 Una volta cliccato il tasto vedrai diversi tipi di template:
 
-![161761412-c0d83f3a-6f60-424f-9efa-7a917c4bbb16](https://user-images.githubusercontent.com/14958556/161768395-30350d71-84fe-467c-ae9d-da233b639e32.png)
+![Untitled-1](https://user-images.githubusercontent.com/14958556/163460689-5e6a3d77-4230-420e-9d8e-45654f89ec55.png)
 
 
 Segui la descrizione di ogni template per segnalare il tuo problema o proporre un'idea.
