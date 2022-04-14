@@ -2,8 +2,8 @@
 name: 3D Model
 about: Vorrei che questo modello 3D venisse aggiunto nel server
 title: ''
-labels: ''
-assignees: ''
+labels: 3D Model
+assignees: mrkiko144, rendy6416
 
 ---
 
