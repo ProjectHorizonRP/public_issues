@@ -1,4 +1,4 @@
-# projecthorizon.it
+# Segnalazioni Project Horizon
 Benvenuto nel repo per le issues pubbliche di Project Horizon.
 
 Per aprire una issue, seleziona il tab "Issues" in alto a sinistra o visita questo url: https://github.com/ProjectHorizonRP/public_issues/issues
