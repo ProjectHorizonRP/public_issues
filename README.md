@@ -19,6 +19,7 @@ Esempio:
 * Bug : Ho un problema incontrato in game, in console oppure ho incontrato un comportamento del server che non corrisponde a quello che mi aspetto
 * Traduzione: Ho incontrato un errore grammaticale, di sintassi o comunque una frase non tradotta in italiano
 * Idea : Ho un idea/miglioramento da proporre per il server
+* 3D Model : Vorrei che questo veicolo/locale/oggetto (o altro) venisse aggiunto nel server
 
 Una volta selezionato un template, siete pregati di seguirlo per essere certi di scrivere una buona segnalazione.
 
